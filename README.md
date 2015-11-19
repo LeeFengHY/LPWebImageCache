@@ -1,0 +1,2 @@
+# LPWebImageCache
+*用于理解iOS图片内存缓存和本地缓存,当然实际开发用还是使用SDWebImage这样优秀高效的框架.
